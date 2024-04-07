@@ -1,4 +1,3 @@
-```markdown
 # Caesar Cipher Menu Script 🛡️
 
 This Bash script implements a Caesar Cipher menu with options to encrypt and decrypt text using the Caesar Cipher algorithm. It provides a user-friendly interface for interacting with the encryption and decryption functionalities.
